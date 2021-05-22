@@ -1,0 +1,25 @@
+{
+  "name": "modcastr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentora/modcastr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentora/modcastr/issues"
+  },
+  "homepage": "https://github.com/kentora/modcastr#readme",
+  "dependencies": {
+    "obs-websocket-js": "^4.0.2",
+    "readline-sync": "^1.4.10",
+    "tmi.js": "^1.8.3"
+  }
+}
